@@ -8,6 +8,11 @@ public class TryMain {
 		A.printule();
 		x += 23;
 		System.out.println("x = " + x);
+
+		myfunv();
 	}
 
+	public static void myfunv() {
+		System.out.println("good book");
+	}
 }
