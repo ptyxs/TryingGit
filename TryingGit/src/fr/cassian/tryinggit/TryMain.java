@@ -10,9 +10,12 @@ public class TryMain {
 		System.out.println("x = " + x);
 
 		myfunv();
+
+
 	}
 
 	public static void myfunv() {
 		System.out.println("good book");
+		System.out.println("to read");
 	}
 }
