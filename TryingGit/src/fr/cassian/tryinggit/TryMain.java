@@ -16,11 +16,12 @@ public class TryMain {
 		int q = y + p;
 
 
-		
+
 	}
 
 	public static void myfunv() {
 		System.out.println("good book");
 		System.out.println("to read");
+		int x = 13;
 	}
 }
