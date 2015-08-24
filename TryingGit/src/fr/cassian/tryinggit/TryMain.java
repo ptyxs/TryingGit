@@ -10,10 +10,13 @@ public class TryMain {
 		System.out.println("x = " + x);
 
 		myfunv();
-		int z = 34;
-		int p = 4;
-		int q = z + p;
 
+		int y = 34;
+		int p = 4;
+		int q = y + p;
+
+
+		
 	}
 
 	public static void myfunv() {
