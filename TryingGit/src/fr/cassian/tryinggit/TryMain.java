@@ -14,7 +14,7 @@ public class TryMain {
 		int y = 34;
 		int p = 4;
 		int q = y + p;
-
+		int w = ++q;
 
 
 	}
