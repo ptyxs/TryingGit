@@ -12,7 +12,7 @@ public class TryMain {
 		myfunv();
 		int z = 34;
 		int p = 4;
-
+		int q = z + p;
 
 	}
 
