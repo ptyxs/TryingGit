@@ -10,6 +10,7 @@ public class TryMain {
 		System.out.println("x = " + x);
 
 		myfunv();
+		int y = 34;
 
 
 	}
