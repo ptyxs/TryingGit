@@ -23,5 +23,6 @@ public class TryMain {
 		System.out.println("good book");
 		System.out.println("to read");
 		int x = 13;
+		x = x + 3;
 	}
 }
