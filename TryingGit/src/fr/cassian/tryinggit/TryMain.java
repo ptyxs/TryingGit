@@ -15,7 +15,10 @@ public class TryMain {
 		int p = 4;
 		int q = y + p;
 		int w = ++q;
-
+		System.out.println(Integer.MIN_VALUE);
+		System.out.println(Integer.MIN_VALUE+1);
+		System.out.println(Integer.MAX_VALUE);
+		System.out.println(Integer.MAX_VALUE+1);
 
 	}
 
